@@ -1,4 +1,4 @@
-# Java
+# Automation on Java
 
 There is the list with framework templates below. All of them have been written on Java. 
 
